@@ -1,0 +1,23 @@
+.background_img {
+  background-image: url("./public/images/arrangefruits.png");
+  padding: 4.5rem 0 4.5rem 0.5rem;
+  text-align: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.btn {
+  font-size: 15px;
+  color: #fff;
+  border-color: #18ab29;
+  font-weight: bold;
+  border-color: #18ab29;
+  border-top-right-radius: 35px;
+  border-bottom-left-radius: 35px;
+  text-shadow: 1px 1px 0px #2f6627;
+}
+.numbers_style {
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+}

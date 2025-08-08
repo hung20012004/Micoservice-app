@@ -1,0 +1,5 @@
+# Tải dependencies
+npm install
+
+# Chạy
+npm run dev
